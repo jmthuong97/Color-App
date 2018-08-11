@@ -1,0 +1,18 @@
+{
+  "name": "color-api",
+  "version": "0.1.0",
+  "description": "color team",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Nhu Thuong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6",
+    "node-fetch": "^2.2.0"
+  }
+}
